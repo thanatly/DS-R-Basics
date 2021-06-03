@@ -11,7 +11,7 @@ Personal note on basic R tutorials for data science
 - Able to implement different dimension reduction techniques using R
 
 ## Content
-This repository contains a jupyter notebook running 
+This repository contains jupyter notebook.
 
 ## Installation
 ### Install R in a local machine
